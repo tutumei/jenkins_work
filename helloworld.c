@@ -6,4 +6,5 @@ void main ()
     printf("Hello Jenkins!\r\n");
     printf("Hello Jenkins email!\r\n");
     printf("======================================\r\n");
+    printf("======================================\r\n");
 }
